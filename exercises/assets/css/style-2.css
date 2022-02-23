@@ -14,11 +14,20 @@ input, button, textarea, select { font: inherit }
 
 h1 {
     font-size: 72px;
-}
+    margin-bottom: 56px;
+    text-align: center;
+    letter-spacing: 4px;
+    font-family: sans-serif;
+    }
 
 h2 {
     font-size: 30px;
-    margin-bottom: 64px;     
+    margin-bottom: 64px; 
+    font-family: sans-serif;
+    text-align: center;
+    line-height: 1.4;
+    text-transform: uppercase;
+    font-weight: normal;    
 }
 
 h3 {
@@ -28,4 +37,6 @@ h3 {
 
 p {
     font-size: 22px;
+    line-height: 1.6;
+    margin-bottom: 20px;
 }

@@ -11,6 +11,7 @@ input, button, textarea, select { font: inherit }
 
 /* ================= ENDS ================ */
 
+body { font-family: sans-serif; } 
 
 h1 {
     font-size: 64px;
