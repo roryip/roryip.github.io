@@ -23,17 +23,19 @@ h1 {
     font-weight: normal;
     letter-spacing: -2px;
     margin-bottom: 32px;
+    color: lawngreen
 }
 
 h2 {
     font-size: 36px;
     margin-bottom: 4px;
-    
+    color: lawngreen
 }
 
 h3 {
     font-size: 24px;
     margin-bottom: 4px;  
+    color: lawngreen
 }
 
 p {
@@ -41,4 +43,5 @@ p {
     font-family: sans-serif;
     line-height: 1.6;
     margin-bottom: 20px;
+    color: lavenderblush
 }
