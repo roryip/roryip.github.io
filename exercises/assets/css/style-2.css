@@ -22,7 +22,7 @@ h1 {
     text-align: center;
     letter-spacing: 4px;
     font-family: sans-serif;
-    color: lawngreen
+    color: rgb(0, 217, 255)
     }
 
 h2 {
@@ -33,13 +33,13 @@ h2 {
     line-height: 1.4;
     text-transform: uppercase;
     font-weight: normal;
-    color: lawngreen    
+    color: rgb(0, 217, 255)   
 }
 
 h3 {
     font-size: 32px;
     margin-bottom: 4px;
-    color: lawngreen
+    color: rgb(0, 217, 255)
 }
 
 p {
@@ -49,4 +49,4 @@ p {
     color: lavenderblush
 }
 
-body {background-color: rgb(100, 32, 32);}
+body {background-color: rgb(0, 0, 0);}
